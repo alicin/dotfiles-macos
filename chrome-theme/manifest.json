@@ -1,0 +1,24 @@
+{
+  "name": "Space",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [44, 36, 64],
+      "toolbar": [44, 36, 64],
+      "tab_text": [254, 93, 120],
+      "tab_background_text": [17, 244, 220],
+      "bookmark_text": [17, 244, 220],
+      "ntp_background": [44, 36, 64],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [44, 36, 64]
+    },
+    "tints": { "buttons": [17, 244, 220] },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
